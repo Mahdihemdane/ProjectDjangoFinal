@@ -1,0 +1,6 @@
+Django
+celery
+celery-beat
+django-q
+APScheduler
+redis
